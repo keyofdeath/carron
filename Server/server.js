@@ -16,7 +16,7 @@ var express = require('express');
 var app = express();
 // Set up the server
 // process.env.PORT is related to deploying on heroku
-var server = app.listen(process.env.PORT || 3000, listen);
+var server = app.listen(80, listen);
 // WebSocket Portion
 // WebSockets work with the HTTP server
 var io = require('socket.io')(server);
