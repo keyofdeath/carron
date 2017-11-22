@@ -1,0 +1,57 @@
+{
+  "nbWave":6,
+  "wave1":{
+    "nbMin": 1,
+    "nbMax": 1,
+    "speedMin": 1,
+    "speedMax": 3,
+    "enemyR": 50,
+    "playerR": 25,
+    "time": 10000
+  },
+  "wave2":{
+    "nbMin": 1,
+    "nbMax": 1,
+    "speedMin": 1,
+    "speedMax":4,
+    "enemyR": 10,
+    "playerR": 50,
+    "time": 10000
+  },
+  "wave3":{
+    "nbMin": 0,
+    "nbMax": 1,
+    "speedMin": 1,
+    "speedMax": 1,
+    "enemyR": 80,
+    "playerR": 5,
+    "time": 10000
+  },
+  "wave4":{
+    "nbMin": 1,
+    "nbMax": 2,
+    "speedMin": 5,
+    "speedMax": 7,
+    "enemyR": 60,
+    "playerR": 10,
+    "time": 15000
+  },
+  "wave5":{
+    "nbMin": 5,
+    "nbMax": 8,
+    "speedMin": 1,
+    "speedMax": 2,
+    "enemyR": 10,
+    "playerR": 60,
+    "time": 20000
+  },
+  "wave6":{
+    "nbMin": 1,
+    "nbMax": 1,
+    "speedMin": 3,
+    "speedMax": 5,
+    "enemyR": 10,
+    "playerR": 30,
+    "time": 10000
+  }
+}
